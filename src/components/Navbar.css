@@ -1,0 +1,13 @@
+ul li a:hover {
+    background: none;
+}
+
+ul li:hover ul.dropdown-menu {
+    display: block;
+    background: black;
+}
+
+.dropdown-item {
+    color: white;
+
+}
